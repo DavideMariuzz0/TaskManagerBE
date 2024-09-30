@@ -107,11 +107,7 @@ Here are the main API endpoints provided by the application:
 
 ## Testing
 
-To run unit and integration tests for the application:
-
-`bash npm test `
-
-To run tests with coverage:
+To run unit tests for the application:
 
 ```bash
 npm run test
