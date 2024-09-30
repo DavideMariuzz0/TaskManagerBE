@@ -50,24 +50,6 @@ npm run dev
 
 This will start the application using [nodemon](https://nodemon.io/) which watches for file changes and restarts the server automatically.
 
-### Running in Production
-
-To run the application in production mode:
-
-1. Build the project (if required):
-
-```bash
-npm run build
-```
-
-2. Start the application:
-
-```bash
-npm start
-```
-
-By default, the app will run on port `3000` unless specified otherwise in environment variables.
-
 ## Environment Variables
 
 The application requires environment variables for configuration. You can define them in a `.env` file in the root of the project.
