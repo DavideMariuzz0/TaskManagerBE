@@ -73,10 +73,11 @@ By default, the app will run on port `3000` unless specified otherwise in enviro
 The application requires environment variables for configuration. You can define them in a `.env` file in the root of the project.
 
 Example `.env` file:
-
-`MONGO_URI=mongodb+srv://gasgasdavide1:50enA0vm6Dlmt0Xo@cluster0.k7b6j.mongodb.net/TaskManagementSystem?retryWrites=true&w=majority&appName=Cluster0`
-`CLIENT_URL=http://localhost:3000`
-`PORT=8000`
+```bash
+MONGO_URI=****
+CLIENT_URL=****
+PORT=****
+```
 
 Make sure to set up all required variables before running the application.
 
