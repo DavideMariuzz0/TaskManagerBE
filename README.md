@@ -24,8 +24,8 @@ Before running the application, ensure that you have the following installed:
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/task-management-system.git
-cd task-management-system
+git clone https://github.com/DavideMariuzz0/TaskManagerBE.git
+cd TaskManagerBE
 ```
 
 ### Install Dependencies
