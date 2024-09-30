@@ -1,6 +1,8 @@
 ## Getting Started
 
-First, run the start the server:
+1. Navigate to the ROOT of the directory and create a `.env` file.
+2. On the `.env` file paste the secrets shared via email
+3. run the start the server:
 
 ```bash
 npm start
