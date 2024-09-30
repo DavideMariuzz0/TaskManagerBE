@@ -56,9 +56,9 @@ The application requires environment variables for configuration. You can define
 
 Example `.env` file:
 ```bash
-MONGO_URI=****
-CLIENT_URL=****
-PORT=****
+MONGO_URI={THIS_NEED_TO_BE_PROVIDED}
+CLIENT_URL=http://localhost:3000
+PORT=8000
 ```
 
 Make sure to set up all required variables before running the application.
